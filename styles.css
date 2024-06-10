@@ -43,7 +43,7 @@ footer{
 
 }
 .coffee-items,.dessert-items{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -67,7 +67,7 @@ img{
 
 }
 .price{
-  color: green;
+  color: brown
 }
 .coffee-heading h2, .dessert h2{
   font-size: 35px;
