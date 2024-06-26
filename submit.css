@@ -1,0 +1,27 @@
+body {
+    /* border: 1px solid red; */
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://img.freepik.com/premium-photo/roasted-coffee-beans-with-green-leaves-dark-background-top-view_795422-5261.jpg"); 
+    color:greenyellow
+}
+
+main {
+    height: 80%;
+    /* border: 1px solid purple; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+main h1 {
+    text-align: center;
+}
+
+footer {
+    height: 20%;
+    /* border: 1px solid orange; */
+    margin: 0;
+}

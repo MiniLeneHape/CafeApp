@@ -1,0 +1,61 @@
+body{
+    /* border: 1px solid red; */
+    margin: 50px;
+    background-image: url("https://img.freepik.com/premium-photo/roasted-coffee-beans-with-green-leaves-dark-background-top-view_795422-5261.jpg");
+ color: white;
+}
+footer{
+    /* border: 1px solid ;
+    background-color: bisque; */
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    background-image: url("https://img.freepik.com/premium-photo/roasted-coffee-beans-with-green-leaves-dark-background-top-view_795422-5261.jpg");
+    
+}
+.footer-heading{
+    /* border: 1px solid red; */
+    padding-left: 10px;
+}.footer-address{
+    /* border: 1px solid red; */
+    padding-left: 10px;
+
+}
+fieldset{
+    
+    display: flex;
+ margin: 10px 20px;
+ flex-direction: column;
+ border: 1px solid rgb(0, 0, 0);
+ font-size: larger;
+ color: bisque;
+ 
+
+}
+.nice, .one{
+    height: 150px;
+    padding: 40px 30px;
+  justify-content:space-around;
+
+}
+.order-head{
+    background-image: url("https://png.pngtree.com/background/20230410/original/pngtree-coffee-beans-leaves-wood-plank-background-picture-image_2385568.jpg");
+text-align: left;
+width: 80%;
+margin: auto;
+}
+h1, p {
+    text-align: center;
+    padding-top: 20px;
+}
+p{    
+font-size: xx-large;
+color: white
+}
+h1{
+    color: rgb(16, 244, 9);
+}
+a{
+    font-size: xx-large;
+    color: #f97837;
+}
